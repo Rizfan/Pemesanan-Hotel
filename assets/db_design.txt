@@ -1,0 +1,18 @@
+(Pemesanan)
+id
+nama pemesan
+jenkel
+NIK
+id_produk
+tanggal pesan
+durasi menginap
+sarapan
+discount
+total bayar
+
+(produk)
+id
+nama (standar, deluxe, executif)
+harga
+foto
+video
